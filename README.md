@@ -1,8 +1,14 @@
 # 💫 About Me:
 💻 **Software Developer | CSE Student | Competitive Programmer**<br><br>Building efficient solutions through code. <br>Currently interning as a Software Developer while pursuing my B.Sc. in Computer Science and Engineering.<br><br>🔹 **1000+ problems solved** on competitive programming platforms<br>🔹 **Software Development Intern** @ Efficient ERP Limited<br>🔹 **Customer Service Executive** @ Loosely Coupled Technology<br>🔹 **Senior Executive** @ Niter Computer Club<br>🔹 Passionate about **algorithms, data structures & clean code**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adrant007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/with_adnan58) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hasanncs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnancse58@gmail.com) 
+## 🔗 Let's Connect & Collaborate!
+
+| Platform | Details |
+| :---: | :--- |
+| *💼 LinkedIn* | [![LinkedIn Badge](https://img.shields.io/badge/-AdnanHassan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-hasanncs/) |
+| *📧 Email* | [![Email Badge](https://img.shields.io/badge/Email-adnancse58@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adnancse58@gmail.com) |
+| *👤 Facebook* | [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/adrant007/) |
+| *💻 Portfolio* | [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ah-portfolio-five.vercel.app/) |
 
 ## 🛠️ Tech Stack
 
