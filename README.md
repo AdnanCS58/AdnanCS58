@@ -73,21 +73,9 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/AdnanCS58">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdnanCS58&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=AdnanCS58&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <hr>
-
-## 📊 Top Languages
-
-<p align="center">
-  <a href="https://github.com/AdnanCS58">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanCS58&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
 
 <hr>
 
