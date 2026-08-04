@@ -26,7 +26,7 @@ Software Developer • ICPC Asia Dhaka Regionalist 2025 • Competitive Programm
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 - 🎓 B.Sc. in Computer Science & Engineering
 - 💼 Software Development Intern
@@ -37,7 +37,7 @@ Software Developer • ICPC Asia Dhaka Regionalist 2025 • Competitive Programm
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -61,7 +61,7 @@ Software Developer • ICPC Asia Dhaka Regionalist 2025 • Competitive Programm
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -71,7 +71,7 @@ Software Developer • ICPC Asia Dhaka Regionalist 2025 • Competitive Programm
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
@@ -89,7 +89,7 @@ Software Developer • ICPC Asia Dhaka Regionalist 2025 • Competitive Programm
 
 ---
 
-# 🏅 Competitive Programming
+#  Competitive Programming
 
 <p align="center">
 
@@ -105,7 +105,7 @@ Software Developer • ICPC Asia Dhaka Regionalist 2025 • Competitive Programm
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
