@@ -7,7 +7,7 @@ Software Developer • ICPC Asia Dhaka Regionalist 2025 • Competitive Programm
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Intern;Competitive+Programmer;MERN+Stack+Developer;Flutter+%26+Firebase+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development;Competitive+Programmer;MERN+Stack+Developer;Flutter+%26+Firebase+Developer;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
